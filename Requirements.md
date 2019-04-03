@@ -1,0 +1,5 @@
+- We need TeamCity-Agents to compile with msbuild.exe  << requires .Net 4.7 & .Net 4.5.2 Multi-Targeting Pack
+- We need TeamCity-Agents to compile with node.js
+- The TeamCity-Agents must habe the compiled files as output or must copy them to the host system
+- The Agents will need git to pull the source
+- Only a few Builds need "Web development build tools" from Visual Studio Build Tools 2017.
